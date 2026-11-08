@@ -117,6 +117,18 @@ export default function Home() {
               />
             </div>
           </div>
+
+          <div className="py-28 px-6 md:px-16 lg:px-24 xl:px-44">
+            <h1 className="font-semibold text-4xl md:text-[40px]">
+              What Our Customers Say
+            </h1>
+
+            <p className="text-sm md:text-base text-gray-500/90 mt-2 max-w-156">
+              Discover why customers choose CarRental for their luxury car
+              rentals. Read about their experiences and enjoy a comfortable
+              journey.
+            </p>
+          </div>
         </div>
       </section>
     </>
